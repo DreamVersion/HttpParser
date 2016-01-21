@@ -1,5 +1,4 @@
 #include <iostream>
-#include <pcap.h>
 #include <stdlib.h>
 #include "Parser.hpp"
 
